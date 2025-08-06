@@ -15,7 +15,7 @@ A multi-agent reasoning tool for **comprehensive highway scene understanding**, 
 ![Demo Preview](assets/congestion_demo.gif)
 
 # 🔥News
-- [2025/08/5] We released our pipeline, framework, and demos. Effective CoT prompts for different downstream tasks and the paper will be released soon.
+- [2025/08/05] We released our pipeline, framework, and demos. Effective CoT prompts for different downstream tasks and the paper will be released soon.
 
 <br>
 
