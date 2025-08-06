@@ -5,6 +5,16 @@ A multi-agent reasoning tool for **comprehensive highway scene understanding**, 
 A multi-agent reasoning tool for **comprehensive highway scene understanding**, built on a **mixture-of-experts strategy**. It integrates multiple critical perception tasks, including weather classification, pavement wetness estimation, and traffic congestion detection. By orchestrating specialized vision-language models (VLMs) through task-specific chain-of-thought (CoT) prompting, the tool enables robust multi-task reasoning and achieves significant performance improvements across all evaluated tasks. Experimental results demonstrate consistently high accuracy across diverse scenarios. In practical deployment, the tool can be integrated with the extensive network of existing traffic cameras. In rural areas, where traditional sensor coverage is limited and cellular connectivity may be sparse, it supports strategic monitoring by focusing on high-risk locations such as **sharp curves**, **flood-prone lowlands**, and **icy bridges**. By continuously analyzing scene conditions at these targeted sites, the tool enhances situational awareness and delivers timely alerts, even in disconnected environments.
 </details>
 
+<br>
+<span>
+<b>Authors:</b> 
+<a class="name" target="_blank" href="https://winstonyang117.github.io/">Yunxiang Yang<sup>1</sup></a>, 
+<a class="name" target="_blank" href="https://github.com/XComedian">Ningning Xu<sup>2</sup></a>, 
+<a class="name" target="_blank" href="https://engineering.uga.edu/team_member/jidong-yang/">Jidong Yang<sup>†</sup></a> 
+<br>
+<sup>†</sup>Corresponding Author.
+</span>
+
 ### 🎬 Weather Understanding Demo
 ![Demo Preview](assets/weather_demo.gif)
 
