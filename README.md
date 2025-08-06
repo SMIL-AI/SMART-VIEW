@@ -38,7 +38,7 @@ A multi-agent reasoning tool for **comprehensive highway scene understanding**, 
 <br>
 
 ### Implementation Details
-1. We employed [ChatGPT-4o](https://chatgpt.com/) as agent 1, and [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) as agent 2.
+1. We employed [ChatGPT-4o](https://chatgpt.com/) as agent 1, and [Qwen2.5-VL 7B](https://github.com/QwenLM/Qwen2.5-VL) as agent 2.
 2. Please follow [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) official repository to install the environment.
 
 ### Data Preparation
