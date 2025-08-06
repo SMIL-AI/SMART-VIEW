@@ -1,4 +1,4 @@
-# *Scene-understanding Multi-agent Analysis and Reasoning Tool for Visual Inspection and Environmental Watch*
+# *Highway Scene Understanding: Multi-agent Collaboration and Reasoning Tool for Visual Inspection and Environmental Watch*
 
 A multi-agent reasoning tool for **comprehensive highway scene understanding**, built on a **mixture-of-experts strategy**. It integrates multiple critical perception tasks, including **weather classification**, **pavement wetness estimation**, and **traffic congestion detection**. 
 <details><summary>Detailed Abstract</summary> 
