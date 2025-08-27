@@ -79,10 +79,10 @@ SceneUnderstanding/
 If you find this repository is helpful for your research, please consider citing our paper:
 
 ```bibtex
-@article{yang2025structured,
-      title   = {Structured Prompting and Multi-Agent Knowledge Distillation for Traffic Video Interpretation and Risk Inference},
+@article{yang2025multiagent,
+      title   = {Multi-Agent Visual-Language Reasoning for Comprehensive Highway Scene Understanding},
       author  = {Yang, Yunxiang and Xu, Ningning and Yang, Jidong J.},
-      journal = {arXiv preprint arXiv:2508.13439},
+      journal = {arXiv preprint arXiv:2508.17205},
       year    = {2025}
 }
 ```
