@@ -36,10 +36,10 @@ A multi-agent reasoning tool for **comprehensive highway scene understanding**, 
 <br>
 
 ## Framework
-![framework](./assets/framework.png)
+![framework](./assets/framework_v1.png)
 
 ## Example of CoT prompt generation for pavement wetness level assessment under snowy conditions
-![visual_search_agent](./assets/cot_snowy.png)
+![visual_search_agent](./assets/cot_snowy_v1.png)
 
 <br>
 
@@ -74,3 +74,15 @@ SceneUnderstanding/
             |__ Outbound/
 ```
 
+## Citation
+
+If you find this repository is helpful for your research, please consider citing our paper:
+
+```bibtex
+@article{yang2025structured,
+      title   = {Structured Prompting and Multi-Agent Knowledge Distillation for Traffic Video Interpretation and Risk Inference},
+      author  = {Yang, Yunxiang and Xu, Ningning and Yang, Jidong J.},
+      journal = {arXiv preprint arXiv:2508.13439},
+      year    = {2025}
+}
+```
