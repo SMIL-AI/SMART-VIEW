@@ -16,7 +16,7 @@ A multi-agent reasoning tool for **comprehensive highway scene understanding**, 
 <b>Authors:</b> 
 <a class="name" target="_blank" href="https://winstonyang117.github.io/">Yunxiang Yang<sup>1</sup></a>, 
 <a class="name" target="_blank" href="https://github.com/XComedian">Ningning Xu<sup>2</sup></a>, 
-<a class="name" target="_blank" href="https://engineering.uga.edu/team_member/jidong-yang/">Jidong Yang<sup>†</sup></a> 
+<a class="name" target="_blank" href="https://engineering.uga.edu/team_member/jidong-yang/">Jidong Yang<sup>1,†</sup></a> 
 <br>
 <sup>†</sup>Corresponding Author.
 </span>
